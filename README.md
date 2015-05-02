@@ -1,5 +1,7 @@
 # Pysswords: Manage your passwords from the terminal
 
+> Pysswords development has been moved to [Passpie](https://github.com/marcwebbie/passpie) fork.
+
 [Pysswords](https://marcwebbie.github.io/pysswords) (pronounced Py-Swords) lets you manage
 your login credentials from the terminal. Password files are saved into
 [GnuPG](http://en.wikipedia.org/wiki/GNU_Privacy_Guard) encrypted files
